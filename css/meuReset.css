@@ -1,0 +1,22 @@
+*{
+box-sizing: border-box;
+}
+body, h1, h2, nav, p, ul, li, a{
+  margin:0;
+  padding:0;
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+body{
+  color:#222222;
+  font-family: "Nunito", helvetica, Arial, Helvetica, sans-serif;
+}
+img{
+  display: block;
+  max-width:100%;
+}
+
