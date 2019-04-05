@@ -1,0 +1,19 @@
+.produtos{
+    max-width:960px;
+    padding:60px 0;
+    margin: 0 auto;    
+}
+.produtos h1{
+    font-size:3em;
+    font-weight:bold;
+    margin:0 10px 60px 10px;
+}
+.produtos-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+.produtos-item{
+    flex:1 1 150px;
+    margin: 10px;
+}
