@@ -17,3 +17,19 @@
     flex:1 1 150px;
     margin: 10px;
 }
+.produtos-item.purple{
+    border-top:7px solid #AE81FF;
+}
+.produtos-item.pink{
+    border-top:7px solid #F5255D
+}    
+.produtos-item.blue{ 
+    border-top:7px solid #66D9EB
+}
+.produtos-item h2{
+    font-size:3em;
+    color:#A4A4A4;
+    background-color:#F7F7F7;
+    font-weight:bold;
+    padding:50px 0 50px 20px;
+}   
