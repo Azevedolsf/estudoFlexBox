@@ -23,6 +23,11 @@
     color:#888;
 }
 .sobre-img{
-flex: 1 1 175px;
+flex:1 1 175px;
 margin:0 10px;
+}
+@media (max-width:600px){
+    .sobre-img{
+        margin-bottom:10px;
+    }
 }

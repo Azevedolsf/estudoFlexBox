@@ -9,7 +9,6 @@
   flex-wrap: wrap;
   justify-content: space-between;
   padding-top:10px;
-  color:#fff;
 }
 .superinfo p, .superinfo a{
   margin:0 10px 10px 10px;
@@ -46,7 +45,7 @@
 }
 .menu-nav a{
   color:#fff;
-  font-size:1em;
+  font-size:1.25em;
   padding:10px;
 }
 .menu-nav a:hover{
@@ -55,6 +54,9 @@
 @media (max-width:600px){
   .menu{
     flex-direction: column;
+  }
+  .menu-logo{
+    margin-bottom:10px;
   }
 }
 .introducao{
